@@ -202,4 +202,8 @@ footer .footer-column ul {
 
 footer .footer-column ul li { margin : 5px 0;}
 
-
+footer .footer-column ul li a {
+    text-decoration: none;
+    color : white;
+    font-size: 0.9rem;
+}
