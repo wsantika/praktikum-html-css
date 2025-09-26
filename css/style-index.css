@@ -119,3 +119,57 @@ welcome-block {
     line-height: 1.5;
     color: #000000;
 }
+
+#about-container {
+    max-width: 1200px;
+    margin: 0 auto;
+    text-align: center;
+    padding: 20px;
+}
+
+#about-container h1 {
+    font-size: 24px;
+    margin-bottom: 20px;
+}
+
+.options {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 20px;
+}
+
+.option {
+    background-color: white;
+    border-radius: 8px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    overflow: hidden;
+    text-align: left;
+    width: 300px;
+}
+
+.option img {
+    width: 100%;
+    height: auto;
+    display: block;
+}
+
+.option-content {
+    padding: 15px;
+}
+
+.option-content h2 {
+    font-size: 18px;
+    margin: 0 0 10px;
+}
+
+.option-content a {
+    color: #007bff;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.option-content a:hover {
+    text-decoration: underline;
+}
+
