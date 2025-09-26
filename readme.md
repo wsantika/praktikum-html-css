@@ -4,6 +4,8 @@
 
 **Dosen Pengampu: Ir. Gede Humaswara Prathama, S.T., M.T.**
 
+<img width="225" height="225" alt="undiknas" src="https://github.com/user-attachments/assets/16fd02d1-2c87-46bc-8c76-d314dfaed981" />
+
 Oleh:
 
   -----------------------------------------------------------------------
@@ -46,7 +48,9 @@ membuat halaman web yang terstruktur, menarik, dan sesuai standar.
 
 index.html
 
-![](../praktikum-html-css/assets/foto/code.png)
+<img width="1434" height="596" alt="code" src="https://github.com/user-attachments/assets/a4ba0d77-1511-4571-b2f4-f90d41ccf29c" />
+
+
 
 -   \<!DOCTYPE html\> → Memberitahu browser bahwa ini adalah dokumen
     HTML5.
@@ -71,7 +75,8 @@ index.html
 
 -   \</head\> → Menutup bagian head.
 
-> ![](../praktikum-html-css/assets/foto/code1.png)
+<img width="1280" height="748" alt="code1" src="https://github.com/user-attachments/assets/8f686965-7dda-475f-bc25-95c51967f5e2" />
+
 
 -   \<body\> → Bagian utama dari halaman web, semua konten ditaruh di
     sini.
@@ -102,7 +107,8 @@ index.html
 
 style-index.css
 
-> ![](../praktikum-html-css/assets/foto/code2.png)
+<img width="1002" height="2648" alt="code2" src="https://github.com/user-attachments/assets/9fcdb2ce-a3f1-41df-80f7-53470b431cb8" />
+
 
 -   \* = selector universal, berlaku ke semua elemen.
 
@@ -204,10 +210,10 @@ style-index.css
 -   Saat tombol di-hover, background jadi lebih transparan (0.8).
 
 > index.html
+> 
+<img width="1448" height="748" alt="code3" src="https://github.com/user-attachments/assets/73d821a4-40af-4277-9d85-ff0c52a0e3e5" />
 >
-> ![](../praktikum-html-css/assets/foto/code3.png)
->
-> ![](../praktikum-html-css/assets/foto/code4.png)
+<img width="1788" height="900" alt="code4" src="https://github.com/user-attachments/assets/daed27b2-4144-4429-9848-d3e340be3170" />
 
 -   \<section\> → elemen untuk membungkus bagian tertentu dari halaman.
 
@@ -245,7 +251,7 @@ style-index.css
 
 > style-index.css
 >
-> ![](../praktikum-html-css/assets/foto/code5.png)
+<img width="1002" height="2306" alt="code5" src="https://github.com/user-attachments/assets/c99ef38a-7275-4610-9521-75d369b71a4a" />
 
 -   #about-container { \... } → Mendefinisikan gaya untuk kontainer
     > utama bagian \"tentang\".
@@ -353,9 +359,9 @@ style-index.css
 
 indext.html
 
-![](../praktikum-html-css/assets/foto/code6.png)
+<img width="1664" height="672" alt="code6" src="https://github.com/user-attachments/assets/39d58fe5-bc18-42b2-92f1-a3a907505743" />
 
-![](../praktikum-html-css/assets/foto/code7.png)
+<img width="1094" height="824" alt="code7" src="https://github.com/user-attachments/assets/be5f7466-8990-4a37-bd54-ceffe0ae2f14" />
 
 -   \<footer\> → Mendefinisikan bagian footer (kaki) dari dokumen atau
     bagian. Biasanya berisi informasi hak cipta, informasi kontak, atau
@@ -378,7 +384,7 @@ indext.html
     ke dokumen lain atau, seperti dalam kasus ini, untuk membuat tautan
     email dengan atribut href=\"mailto:\...\".
 
-![](../praktikum-html-css/assets/foto/code8.png)
+<img width="1018" height="1888" alt="code8" src="https://github.com/user-attachments/assets/fc39e7d3-dec9-438e-bc2f-e1321818ea55" />
 
 -   footer → Mengatur gaya dasar untuk seluruh elemen kaki halaman
     (footer): memberikan latar belakang hitam, warna teks putih,
@@ -419,7 +425,7 @@ indext.html
 
 > cv.html
 >
-> ![](../praktikum-html-css/assets/foto/code9.png)
+<img width="1448" height="748" alt="code9" src="https://github.com/user-attachments/assets/5c3fdbb3-8183-474d-ae58-cf71f6ab306f" />
 
 -   \<!DOCTYPE html\> Deklarasi yang memberi tahu browser bahwa dokumen
     ini adalah dokumen HTML5.
@@ -451,7 +457,7 @@ indext.html
 
 -   \</html\> Tag penutup untuk elemen \<html\>.
 
-> ![](../praktikum-html-css/assets/foto/code10.png)
+<img width="1588" height="672" alt="code10" src="https://github.com/user-attachments/assets/a8ccf851-8513-4773-bfb9-916ee83d8d54" />
 
 -   \<body\> Tag pembuka untuk konten utama yang akan ditampilkan di
     halaman web.
@@ -489,7 +495,8 @@ indext.html
     yang hilang di antara baris 9 dan 10 untuk menutup \<div
     class=\"profile-header\"\>.)
 
-> ![](../praktikum-html-css/assets/foto/code11.png)
+<img width="1756" height="976" alt="code11" src="https://github.com/user-attachments/assets/7e9b2c77-8c2c-44d3-8918-d43314d92d26" />
+<img width="1728" height="634" alt="code12" src="https://github.com/user-attachments/assets/14747027-b615-4b4d-a09f-4376077984cc" />
 
 -   profil (Tentang, Pendidikan, Hobi). Kelas profile-details digunakan
     untuk penerapan gaya CSS.
@@ -531,7 +538,7 @@ indext.html
 
 -   \</html\> Tag penutup untuk seluruh dokumen HTML.
 
-> ![](../praktikum-html-css/assets/foto/code13.png)
+<img width="1034" height="1052" alt="code13" src="https://github.com/user-attachments/assets/34e926be-3103-4165-8f7f-3ffa6fb78314" />
 
 -   font-family → Mengatur font utama halaman menjadi Segoe UI, jika
     tidak ada maka pakai Arial, jika tidak ada juga maka fallback ke
@@ -574,7 +581,7 @@ indext.html
 -   margin-bottom: 24px; → Memberi jarak bawah header terhadap elemen
     berikutnya.
 
-> ![](../praktikum-html-css/assets/foto/code14.png)
+<img width="832" height="2306" alt="code14" src="https://github.com/user-attachments/assets/aa1bf3ae-597b-4ff9-a533-6c58efb3e611" />
 
 -   width & height → Ukuran avatar 120x120 piksel.
 
@@ -641,7 +648,9 @@ indext.html
     di layar kecil.
 
 4.  Kode Hasil Program
+<img width="1920" height="1020" alt="halaman-utama1" src="https://github.com/user-attachments/assets/e91039a9-4012-4d17-8a40-56bb0b1010b8" />
+<img width="1920" height="1020" alt="halaman-utama2" src="https://github.com/user-attachments/assets/74460268-fc77-412e-85f5-94309211cdc2" />
+<img width="1920" height="1020" alt="halaman-css" src="https://github.com/user-attachments/assets/cd7dd7c8-a3dd-4c6c-a328-7d623856e578" />
 
-> ![](../praktikum-html-css/assets/foto/halaman-utama1.png)
-> ![](../praktikum-html-css/assets/foto/halaman-utama2.png)
-> ![](../praktikum-html-css/assets/foto/halaman-css.png)
+
+
