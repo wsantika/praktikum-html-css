@@ -173,3 +173,11 @@ welcome-block {
     text-decoration: underline;
 }
 
+footer {
+    background-color: black;
+    color : white ;
+    padding : 20px ;
+    text-align: left;
+}
+
+
