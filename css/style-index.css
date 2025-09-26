@@ -60,3 +60,62 @@ button {
 button:hover {
     background-color: rgba(0, 136, 169, 0.8);
 }
+
+body {
+    font-family: 'Monserrat', sans-serif;
+
+}
+
+#header-chopper {
+    background: url(foto/chopper\ jokow1.jpg)center/cover no-repeat;
+    text-align: center;
+    color: #FFFFFF;
+    padding: 150px 20px;
+    position: relative;
+}
+
+#header-chopper::after {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: rgba(0, 0, 0, 0.5);
+    z-index: -1;
+}
+
+#header-chopper h1 {
+    font-size: 2rem;
+    margin-bottom: 10px;
+}
+
+#header-chopper p {
+    font-size: 1.2rem;
+    line-height: 1.5;
+    color: #FFFFFF;
+}
+
+#header-chopper h1 p {
+    background-color: none;
+    color: #FFFFFF;
+    text-align: center;
+}
+
+welcome-block {
+    max-width: 1200px;
+    margin: 10px auto;
+    text-align: center;
+    padding: 10px;
+}
+
+#welcome-block h1 {
+    font-size: 28px;
+    text-align: center;
+}
+
+#welcome-block p {
+    font-size: 1.2rem;
+    line-height: 1.5;
+    color: #000000;
+}
