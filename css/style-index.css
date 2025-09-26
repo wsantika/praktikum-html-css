@@ -67,7 +67,7 @@ body {
 }
 
 #header-chopper {
-    background: url(foto/chopper\ jokow1.jpg)center/cover no-repeat;
+    background: url(../assets/foto/chopper\ jokow1.jpg)center/cover no-repeat;
     text-align: center;
     color: #FFFFFF;
     padding: 150px 20px;
